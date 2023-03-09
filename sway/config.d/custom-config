@@ -1,0 +1,5 @@
+output * bg /home/psycomentis06/Pictures/wallpapers/tokyo-night02.png fill 
+
+# Lock shortcut
+bindsym Mod1+Ctrl+l exec swaylock
+
